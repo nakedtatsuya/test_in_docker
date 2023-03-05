@@ -1,0 +1,5 @@
+node_modules/
+/.eslintrc.js
+/jest.config.js
+/jest-puppeteer.config.js
+/jest-global-setup.js
